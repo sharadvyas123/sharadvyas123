@@ -21,7 +21,7 @@ A passionate student constantly exploring new tech realms!
 ---
 
 🌟 **Featured Project:**
-[![ReadMe Card](https://github.com/sharadvyas123/Green-Gaurd)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sharadvyas123&repo=Green-Guard&theme=radical)](https://github.com/sharadvyas123/Green-Guard)
 
 ---
 
